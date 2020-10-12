@@ -20,10 +20,10 @@ There are 5,863 chest X-Ray images (JPEG) and 2 categories (Normal/Pneumonia).
 
 2. Download chest X-ray images from [kaggle](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia).
 
-3. Run `ModelCNN_upto_93%`
+3. Run `ModelCNN.ipynb`
 
 ## Results
 
 - Model with dropout in the fully connected layers achieves a test accuracy of 91%.
-  - run `ModelCNN_upto_93.ipynb`
+  - run `ModelCNN.ipynb`
 
