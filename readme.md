@@ -1,6 +1,6 @@
 # Pneumonia Classification
 
-This is a Pytorch based convolutional neural network for detecting pneumonia in frontal-view chext X-ray images.
+This is a based convolutional neural network for detecting pneumonia in frontal-view chext X-ray images.
 
 <div align=center><img width="600" height="220" src="./Screenshot/Capture.PNG"/></div>
 
