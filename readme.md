@@ -27,3 +27,6 @@ The dataset is organized into 3 folders (train, test, val) and contains subfolde
 - Model with dropout in the fully connected layers achieves a test accuracy of 91%.
   - run `ModelCNN.ipynb`
 
+## Github Pages
+
+- If you want to see more about this experiment you can go to my [githubpages](https://rickygunawan09.github.io/Pneumonia_Classification/) or if you want to try with your lungs/chest x-ray come to my [heroku](https://shielded-stream-99265.herokuapp.com/) link. Thank you
